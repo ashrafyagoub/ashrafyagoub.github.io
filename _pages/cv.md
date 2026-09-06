@@ -30,8 +30,21 @@ Cources
 * Industrial Automation Mastery:PLC,WinCC7.5 & Instrumentation
 * Design Automation Blueprint
 * CyberSecurityCourse for Bigenners - Level 01
-  * 
+  *
 
+certifications
+======
+* AI and Sustainability: Rethinking Futures Together
+  * Kingston University, 2026
+* Agents & Governed AI
+  * Snowflake, 2026
+* Industry Adoption of Cloud Computing and AI: Current Trends and Future Opportunities
+  * IEEE IES, 2026
+* Power Electronics as a Key Enabling Technology for Building Decarbonization
+  * IEEE IES, 2026
+* Basics of SCADA and PLC Systems
+  * Engineering College of Technology, 2026
+  
 Projects
 ======
 * Problem Solving (Climate Challenge): Predicting dry spells in Algadarif (July–October)
