@@ -11,11 +11,11 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Bs.C. in Electrical Engineering, Al Zaiem Al Azhari University, SUD, 2027 (expected)
+* High School Diploma, Layla Secondary School, KSA, 2018
+* Intermediate School, Qadisiyah School, KSA, 2015
 
-Work experience
+Work Experience
 ======
 * Spring 2024: Academic Pages Collaborator
   * GitHub University
@@ -32,14 +32,46 @@ Work experience
   * Duties included: Tagging issues
   * Supervisor: Professor Git
   
-Skills
+Technical Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* MATLAP
+* PLC
+* Microsoft Office
+  * Word
+  * Excel
+  * PowerPoint
+* Programming Language
+  * PYTHON
+  * C++
+  * C
+  * JS
+  * CSS
+  * HTML
+*  Figma
+*  Canva
+*  Adobe Photoshop
+*  Maintenance
+
+  Soft Skills
+======
+* Fast Learning
+* Communications
+* Teamwork
+* Coordinating
+* Multitasking
+* Evaluation
+* Collaborating
+* Analysis
+* Implementation
+* Development
+* Efficient
+* Effective
+* Emergency Response
+* Security
+* Responsible Hardworking
+* Pressure Handling
+* Organization
+* Practice
 
 Publications
 ======
