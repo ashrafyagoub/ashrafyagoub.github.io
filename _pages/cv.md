@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* Bs.C. in Electrical Engineering, Al Zaiem Al Azhari University, SUD, 2027 (expected)
-* High School Diploma, Layla Secondary School, KSA, 2018
-* Intermediate School, Qadisiyah School, KSA, 2015
+* Bs.C. in Electrical Engineering, Al Zaiem Al Azhari University, 2027 (expected)
+* High School Diploma, Layla Secondary School, 2018
+* Middle School, Qadisiyah School, 2015
 
 Work Experience
 ======
