@@ -15,27 +15,30 @@ Education
 * High School Diploma, Layla Secondary School, 2018
 * Middle School, Qadisiyah School, 2015
 
-Work Experience
+Cources
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Understanding AI - Beginner's Mini Course
+* Introduction to Artificial Intelligence
+* Introduction to Large Language Models (LLMs)
+* Logistic Regression Practical Case Study
+* Machine Learning 101: Python, Data Science, Linear Regression
+* Robotics Introductory
+* Python for Beginners
+* PLC Programming 100
+* Occupational Safety and Health Administration (OSHA)
+* Design Automation Blueprint
+* Industrial Automation Mastery:PLC,WinCC7.5 & Instrumentation
+* Design Automation Blueprint
+* CyberSecurityCourse for Bigenners - Level 01
+  * 
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+Projects
+======
+* Problem Solving (Climate Challenge): Predicting dry spells in Algadarif (July–October)
+  * Selected to participate in the Resilient Rebuild Climate Challenge. Developing a predictive model for dry spells in Al Gadarif, Sudan, by analyzing climate data and applying machine learning techniques. The objective is to contribute to climate resilience by supporting better planning and decision-making in agriculture.
   
 Technical Skills
 ======
-* MATLAP
-* PLC
 * Microsoft Office
   * Word
   * Excel
@@ -71,7 +74,6 @@ Technical Skills
 * Responsible Hardworking
 * Pressure Handling
 * Organization
-* Practice
 
 Publications
 ======
