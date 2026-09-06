@@ -30,9 +30,8 @@ Cources
 * Industrial Automation Mastery:PLC,WinCC7.5 & Instrumentation
 * Design Automation Blueprint
 * CyberSecurityCourse for Bigenners - Level 01
-  *
 
-certifications
+Certifications
 ======
 * AI and Sustainability: Rethinking Futures Together
   * Kingston University, 2026
@@ -88,24 +87,9 @@ Technical Skills
 * Pressure Handling
 * Organization
 
-Publications
+Languages
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Arabic
+  * Native Language
+* English
+  * Professional working proficiency
